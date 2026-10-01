@@ -8,4 +8,4 @@ The notebook describes its data as the NHANES 1999-2000 cycle, read directly fro
 
 - This is a student course project from my first year, not a validated clinical tool.
 - I have not re-run the notebook end to end from a clean environment since submission. There is no pinned environment, so results may differ with library versions.
-- Later work on the same calculation is in [phenoage-calc](https://github.com/aadityageddam-ux/phenoage-calc) (tested library) and [labage](https://github.com/aadityageddam-ux/labage), which fix problems this version does not handle (for example explicit CRP units).
+- Later work on the same calculation is in [phenoage-calc](https://github.com/aadityageddam-ux/phenoage-calc) (tested library) and [labage](https://github.com/aadityageddam-ux/labage), which supersede this version.
